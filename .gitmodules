@@ -37,3 +37,6 @@
 [submodule "src/core/a2_unitree_bridge"]
 	path = src/core/a2_unitree_bridge
 	url = git@github.com:ETHZ-RobotX/a2_unitree_bridge.git
+[submodule "external/gscam2"]
+	path = external/gscam2
+	url = https://github.com/clydemcqueen/gscam2.git
