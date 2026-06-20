@@ -59,7 +59,7 @@ def generate_launch_description():
         executable='teleop_joy',
         output='screen',
         parameters=[{
-            'linear_x_limit':  2.0,
+            'linear_x_limit':  1.5,
             'linear_y_limit':  1.0,
             'angular_z_limit': 2.0,
         }]
